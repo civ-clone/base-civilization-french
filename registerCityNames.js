@@ -39,7 +39,6 @@ const CityNameRegistry_1 = require("@civ-clone/core-civilization/CityNameRegistr
     'Orléans',
     'Mulhouse',
     'Rouen',
-    'Saint-Denis',
     'Caen',
     'Argenteuil',
     'Saint-Paul',

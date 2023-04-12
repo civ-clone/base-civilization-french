@@ -1,4 +1,3 @@
 # base-civilization-french
 
-This is a template repo.
-
+`French` `Civilization` class and `Leader`s classes, and `City` names.
